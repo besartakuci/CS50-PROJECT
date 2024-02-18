@@ -1,0 +1,29 @@
+.navbar-brand , img{
+    height: 60px;
+}
+.navbar-brand img{
+    margin-top: -7px;
+}
+.carousel-item img{
+    height: 580px;
+}
+nav .navbar{
+    display: block;
+    position: fixed;
+}
+.trainers img{
+    width: 500px;
+    height: 300px;
+    margin-left: 400px;
+}
+p{
+    margin-left: 300px;
+}
+.card-title{
+    margin-left: 550px;
+}
+.schedule img{
+    width: 600px;
+    height: 400px;
+    margin-left: 350px;
+}
